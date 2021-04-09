@@ -25,6 +25,10 @@ html, body{
     text-align: center;
 }
 
+.top #hd {
+    color: rgb(0, 0, 0);
+}
+
 .middle {
     width: fit-content;
     height: fit-content;
