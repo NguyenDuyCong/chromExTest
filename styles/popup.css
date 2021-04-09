@@ -32,7 +32,7 @@ button {
 }
 
 .image {
-    background-image: url("./culua.jpg");
+    background-image: url("../imgs/culua.jpg");
     background-repeat: no-repeat;
     background-size: contain;
     width: 200px;
