@@ -3,7 +3,7 @@
     
     "name": "Cuộc đời là những cú lừa",
     "description": "Không có gì cả :))",
-    "version": "1.0.0",
+    "version": "1.1.0",
     
     "icons" : {
         "16": "imgs/icon_16.png",
@@ -16,7 +16,6 @@
         "default_popup": "popup.html"
     },
     "permissions": [
-        "tabs",
-        "webRequest"
+        "tabs"
     ]
 }
